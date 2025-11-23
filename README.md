@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0204-count-primes) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -45,4 +46,24 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0509-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Greedy
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Sorting
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
