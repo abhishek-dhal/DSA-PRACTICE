@@ -23,6 +23,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [1021-remove-outermost-parentheses](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1021-remove-outermost-parentheses) |
 | [1208-get-equal-substrings-within-budget](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1208-get-equal-substrings-within-budget) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1903-largest-odd-number-in-string) |
 ## Array
 |  |
@@ -125,4 +126,5 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
