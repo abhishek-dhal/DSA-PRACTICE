@@ -34,6 +34,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1021-remove-outermost-parentheses) |
 | [1208-get-equal-substrings-within-budget](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1208-get-equal-substrings-within-budget) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1903-largest-odd-number-in-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Array
@@ -136,11 +137,13 @@
 | [0451-sort-characters-by-frequency](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0451-sort-characters-by-frequency) |
 | [0904-fruit-into-baskets](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0992-subarrays-with-k-different-integers) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Counting
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0992-subarrays-with-k-different-integers) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Trie
 |  |
 | ------- |
