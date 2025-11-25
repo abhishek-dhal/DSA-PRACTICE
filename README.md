@@ -17,6 +17,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0151-reverse-words-in-a-string) |
@@ -127,6 +128,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
