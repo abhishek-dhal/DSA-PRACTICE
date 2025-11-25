@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0204-count-primes](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0643-maximum-average-subarray-i) |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0151-reverse-words-in-a-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
