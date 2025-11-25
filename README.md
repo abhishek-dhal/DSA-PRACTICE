@@ -23,6 +23,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
+| [0796-rotate-string](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1021-remove-outermost-parentheses) |
@@ -140,4 +141,8 @@
 | [1021-remove-outermost-parentheses](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
