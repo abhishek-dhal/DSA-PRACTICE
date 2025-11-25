@@ -17,6 +17,7 @@
 | [0008-string-to-integer-atoi](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0008-string-to-integer-atoi) |
 | [0076-minimum-window-substring](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [1208-get-equal-substrings-within-budget](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1208-get-equal-substrings-within-budget) |
 ## Array
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0151-reverse-words-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
