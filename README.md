@@ -47,6 +47,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
@@ -132,6 +133,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0451-sort-characters-by-frequency) |
@@ -154,6 +156,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0268-missing-number) |
@@ -167,6 +170,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -200,4 +204,8 @@
 | ------- |
 | [0136-single-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
