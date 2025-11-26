@@ -51,6 +51,7 @@
 | [0268-missing-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0904-fruit-into-baskets) |
@@ -133,6 +134,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1208-get-equal-substrings-within-budget) |
@@ -149,6 +151,7 @@
 | [0268-missing-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1781-sum-of-beauty-of-all-substrings) |
