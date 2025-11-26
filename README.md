@@ -9,6 +9,7 @@
 | [0013-roman-to-integer](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -46,6 +47,7 @@
 | [0189-rotate-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0713-subarray-product-less-than-k) |
@@ -91,6 +93,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1208-get-equal-substrings-within-budget) |
@@ -121,6 +124,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0451-sort-characters-by-frequency) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
@@ -140,6 +144,7 @@
 | [0076-minimum-window-substring](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0451-sort-characters-by-frequency) |
 | [0904-fruit-into-baskets](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0904-fruit-into-baskets) |
@@ -176,4 +181,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0451-sort-characters-by-frequency) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
