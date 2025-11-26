@@ -5,10 +5,10 @@ class Solution {
         
         
         
-        int max=0;
-        int sMax=0;
+        int max=arr[0];
+        int sMax=-1;
         
-        for(int i=0;i<n;i++){
+        for(int i=1;i<n;i++){
             if(arr[i] > max ){
                 
                 sMax = max;
