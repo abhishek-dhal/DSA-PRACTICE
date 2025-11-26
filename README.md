@@ -45,6 +45,7 @@
 | [0001-two-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0204-count-primes) |
@@ -76,6 +77,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0189-rotate-array) |
@@ -129,6 +131,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0451-sort-characters-by-frequency) |
