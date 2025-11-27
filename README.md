@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0268-missing-number) |
@@ -46,6 +47,7 @@
 | [0014-longest-common-prefix](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0075-sort-colors) |
@@ -232,5 +234,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
