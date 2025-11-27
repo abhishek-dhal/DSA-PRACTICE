@@ -49,6 +49,7 @@
 | [0053-maximum-subarray](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0189-rotate-array) |
@@ -164,6 +165,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0242-valid-anagram) |
@@ -221,4 +223,8 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2149-rearrange-array-elements-by-sign) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
