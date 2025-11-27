@@ -47,6 +47,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0128-longest-consecutive-sequence) |
@@ -164,6 +165,7 @@
 | [0001-two-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0169-majority-element) |
@@ -227,4 +229,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
