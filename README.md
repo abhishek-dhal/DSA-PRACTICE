@@ -66,6 +66,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Number Theory
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 | [0189-rotate-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0283-move-zeroes) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -213,4 +215,8 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
