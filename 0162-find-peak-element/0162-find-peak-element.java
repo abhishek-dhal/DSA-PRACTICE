@@ -4,16 +4,18 @@ class Solution {
 
        
         int low=0;
-        int high=n-2;
+        int high=n-1;
 
-        while(low <= high){
+        while(low < high){
             int mid = low + (high-low)/2;
 
             if(nums[mid] < nums[mid+1]){
+                //we are on upward peak can be on right half
                 low=mid+1;
             }
             else if(nums[mid] > nums[mid+1]){
-                high=mid-1;
+                //mid might be peak or ans can be on left half
+                high=mid;
             }
         }
 
