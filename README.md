@@ -72,6 +72,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0992-subarrays-with-k-different-integers) |
@@ -130,6 +131,7 @@
 | [0268-missing-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1208-get-equal-substrings-within-budget) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1838-frequency-of-the-most-frequent-element) |
