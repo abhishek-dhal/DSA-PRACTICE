@@ -77,6 +77,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1004-max-consecutive-ones-iii) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -135,6 +136,7 @@
 | [0875-koko-eating-bananas](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1208-get-equal-substrings-within-budget) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
