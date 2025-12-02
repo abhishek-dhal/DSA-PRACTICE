@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0268-missing-number) |
@@ -117,6 +118,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
