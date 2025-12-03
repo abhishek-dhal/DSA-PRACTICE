@@ -1,34 +1,23 @@
 class Solution {
     public int[] nextGreaterElements(int[] nums) {
-
         int n = nums.length;
 
-        int[] ans = new int[n];
-        
-        //Fill with -1 if not found default will be -1
-        Arrays.fill(ans,-1);
-        
-        //storing index instead of values
-        Stack<Integer> st = new Stack<Integer>();
-        
-         //Itearte from 0 ----> 2*n-1 to touch circular constraint
-        for(int i=0;i<2*n;i++){
-            
-            //i % n to cover n---> 2n-1
-            int currVal = nums[i%n];
+        Stack<Integer> s = new Stack<Integer>();
 
-            while(!st.empty() && currVal > nums[st.peek()]){
+        int[] nge = new int[n];
 
-                int poppedIndex = st.pop();
-                ans[poppedIndex] = currVal;
+        for(int i=2*n-1;i>=0;i--){
+
+            while(!s.empty() && s.peek() <= nums[i%n]){
+                s.pop();
             }
-
-            if(i < n){
-                st.push(i);
+            if(i<n){
+                nge[i] = s.empty() ? -1 : s.peek();
+                
             }
+            s.push(nums[i%n]);
         }
 
-        return ans;
-        
+        return nge;
     }
 }
