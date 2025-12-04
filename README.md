@@ -233,6 +233,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0503-next-greater-element-ii) |
@@ -294,4 +295,9 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
