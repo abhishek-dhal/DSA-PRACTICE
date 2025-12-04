@@ -30,6 +30,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0796-rotate-string) |
@@ -153,6 +154,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0402-remove-k-digits) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1903-largest-odd-number-in-string) |
@@ -229,6 +231,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0503-next-greater-element-ii) |
 | [0856-score-of-parentheses](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0856-score-of-parentheses) |
@@ -278,6 +281,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0907-sum-of-subarray-minimums) |
