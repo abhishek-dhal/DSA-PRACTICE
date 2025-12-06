@@ -67,6 +67,7 @@
 | [0189-rotate-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0485-max-consecutive-ones) |
@@ -181,6 +182,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0451-sort-characters-by-frequency) |
@@ -252,6 +254,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
@@ -267,6 +270,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -300,4 +304,8 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0232-implement-queue-using-stacks) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
