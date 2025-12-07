@@ -217,6 +217,7 @@
 | [0205-isomorphic-strings](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0268-missing-number) |
+| [0355-design-twitter](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0496-next-greater-element-i) |
@@ -264,6 +265,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0355-design-twitter](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0621-task-scheduler) |
 ## Bucket Sort
@@ -310,6 +312,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0232-implement-queue-using-stacks) |
+| [0355-design-twitter](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0355-design-twitter) |
 ## Queue
 |  |
 | ------- |
@@ -318,4 +321,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
