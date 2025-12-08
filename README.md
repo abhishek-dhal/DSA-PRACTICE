@@ -363,4 +363,8 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0703-kth-largest-element-in-a-stream) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
