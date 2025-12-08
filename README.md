@@ -264,6 +264,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0355-design-twitter](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0451-sort-characters-by-frequency) |
@@ -280,6 +281,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
@@ -324,5 +326,10 @@
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0023-merge-k-sorted-lists) |
 | [0355-design-twitter](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0355-design-twitter) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
