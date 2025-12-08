@@ -116,6 +116,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0295-find-median-from-data-stream) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
@@ -190,6 +191,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0621-task-scheduler) |
@@ -270,6 +272,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0451-sort-characters-by-frequency) |
@@ -322,6 +325,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Queue
@@ -357,5 +361,6 @@
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
