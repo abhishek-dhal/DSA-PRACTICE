@@ -52,6 +52,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0054-spiral-matrix) |
@@ -371,4 +372,8 @@
 | [1148-article-views-i](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1757-recyclable-and-low-fat-products) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
