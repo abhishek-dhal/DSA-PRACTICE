@@ -32,6 +32,7 @@
 | [0079-word-search](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0242-valid-anagram) |
@@ -70,6 +71,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0169-majority-element) |
@@ -137,6 +139,7 @@
 | [0053-maximum-subarray](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0509-fibonacci-number) |
 | [0907-sum-of-subarray-minimums](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0907-sum-of-subarray-minimums) |
 ## Recursion
@@ -148,6 +151,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
@@ -231,6 +235,7 @@
 | [0073-set-matrix-zeroes](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0242-valid-anagram) |
@@ -260,6 +265,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0139-word-break) |
 ## Stack
 |  |
 | ------- |
