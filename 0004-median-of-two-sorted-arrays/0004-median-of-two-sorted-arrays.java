@@ -28,7 +28,7 @@ class Solution {
         for(int num: nums2){
             addNumbers(num);
         }
-        //if left element numbers odd it contains median
+        //if left + right element numbers odd it contains median
         if((left.size() + right.size() ) % 2 != 0){
             return left.peek();
         }
