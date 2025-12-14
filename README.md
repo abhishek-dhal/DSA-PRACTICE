@@ -87,6 +87,7 @@
 | [0268-missing-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0347-top-k-frequent-elements) |
+| [0410-split-array-largest-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0503-next-greater-element-ii) |
@@ -144,6 +145,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0139-word-break) |
+| [0410-split-array-largest-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0509-fibonacci-number) |
 | [0907-sum-of-subarray-minimums](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0907-sum-of-subarray-minimums) |
 ## Recursion
@@ -168,6 +170,7 @@
 | [0162-find-peak-element](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0875-koko-eating-bananas) |
@@ -182,6 +185,7 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0846-hand-of-straights) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -222,6 +226,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0930-binary-subarrays-with-sum) |
