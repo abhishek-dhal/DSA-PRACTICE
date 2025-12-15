@@ -116,6 +116,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2104-sum-of-subarray-ranges](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Number Theory
@@ -127,6 +128,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0204-count-primes) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -329,6 +331,7 @@
 | [0090-subsets-ii](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0268-missing-number) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -434,6 +437,7 @@
 | [0131-palindrome-partitioning](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0282-expression-add-operators) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Depth-First Search
 |  |
 | ------- |
