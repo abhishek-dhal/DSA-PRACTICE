@@ -113,6 +113,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1901-find-a-peak-element-ii](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -187,6 +188,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1901-find-a-peak-element-ii](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1901-find-a-peak-element-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -355,6 +357,7 @@
 | [0074-search-a-2d-matrix](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1901-find-a-peak-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
