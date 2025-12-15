@@ -9,6 +9,7 @@
 | [0013-roman-to-integer](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0268-missing-number) |
@@ -150,6 +151,7 @@
 | [0005-longest-palindromic-substring](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0139-word-break) |
@@ -165,6 +167,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0509-fibonacci-number) |
 ## Binary Search
