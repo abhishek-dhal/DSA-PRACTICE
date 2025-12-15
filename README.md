@@ -102,6 +102,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0735-asteroid-collision) |
+| [0746-min-cost-climbing-stairs](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0746-min-cost-climbing-stairs) |
 | [0846-hand-of-straights](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0904-fruit-into-baskets) |
@@ -157,6 +158,7 @@
 | [0139-word-break](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0139-word-break) |
 | [0410-split-array-largest-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0907-sum-of-subarray-minimums) |
 ## Recursion
 |  |
