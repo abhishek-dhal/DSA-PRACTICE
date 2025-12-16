@@ -70,6 +70,7 @@
 | [0051-n-queens](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0075-sort-colors) |
@@ -156,6 +157,7 @@
 | [0022-generate-parentheses](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0131-palindrome-partitioning) |
@@ -373,6 +375,7 @@
 | [0037-sudoku-solver](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0079-word-search) |
