@@ -114,6 +114,7 @@
 | [0904-fruit-into-baskets](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0930-binary-subarrays-with-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0931-minimum-falling-path-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -172,6 +173,7 @@
 | [0509-fibonacci-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0907-sum-of-subarray-minimums) |
+| [0931-minimum-falling-path-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0931-minimum-falling-path-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -385,6 +387,7 @@
 | [0074-search-a-2d-matrix](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0931-minimum-falling-path-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0931-minimum-falling-path-sum) |
 | [1901-find-a-peak-element-ii](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1901-find-a-peak-element-ii) |
 ## Monotonic Stack
 |  |
