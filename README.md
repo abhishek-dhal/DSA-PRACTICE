@@ -120,6 +120,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0746-min-cost-climbing-stairs) |
 | [0846-hand-of-straights](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0930-binary-subarrays-with-sum) |
@@ -167,6 +168,7 @@
 | [0295-find-median-from-data-stream](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0881-boats-to-save-people](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -241,6 +243,7 @@
 | [0410-split-array-largest-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0846-hand-of-straights) |
+| [0881-boats-to-save-people](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1903-largest-odd-number-in-string) |
@@ -281,6 +284,7 @@
 | [0658-find-k-closest-elements](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0846-hand-of-straights](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0846-hand-of-straights) |
+| [0881-boats-to-save-people](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
