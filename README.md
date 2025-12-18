@@ -58,6 +58,7 @@
 | [0001-two-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0033-search-in-rotated-sorted-array) |
@@ -146,6 +147,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0075-sort-colors) |
@@ -247,6 +249,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
