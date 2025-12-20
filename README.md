@@ -71,6 +71,7 @@
 | [0037-sudoku-solver](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0053-maximum-subarray) |
@@ -162,6 +163,7 @@
 | [0018-4sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0151-reverse-words-in-a-string) |
@@ -180,6 +182,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0063-unique-paths-ii) |
@@ -357,6 +360,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0402-remove-k-digits) |
@@ -437,6 +441,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0503-next-greater-element-ii) |
