@@ -122,6 +122,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0735-asteroid-collision](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0746-min-cost-climbing-stairs) |
 | [0846-hand-of-straights](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0846-hand-of-straights) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -377,6 +378,7 @@
 | [0496-next-greater-element-i](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0907-sum-of-subarray-minimums) |
@@ -460,6 +462,7 @@
 | [0402-remove-k-digits](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2104-sum-of-subarray-ranges) |
