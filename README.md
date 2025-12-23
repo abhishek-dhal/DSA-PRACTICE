@@ -378,6 +378,7 @@
 | [0503-next-greater-element-ii](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0735-asteroid-collision) |
 | [0856-score-of-parentheses](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0856-score-of-parentheses) |
+| [0901-online-stock-span](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1021-remove-outermost-parentheses) |
@@ -459,6 +460,7 @@
 | [0402-remove-k-digits](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
@@ -469,6 +471,7 @@
 | [0295-find-median-from-data-stream](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -507,6 +510,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0901-online-stock-span) |
 ## Database
 |  |
 | ------- |
