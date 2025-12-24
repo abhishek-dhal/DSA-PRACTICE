@@ -140,6 +140,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -384,6 +385,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1021-remove-outermost-parentheses) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2104-sum-of-subarray-ranges](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2104-sum-of-subarray-ranges) |
@@ -465,6 +467,7 @@
 | [0739-daily-temperatures](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0907-sum-of-subarray-minimums) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2104-sum-of-subarray-ranges](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
