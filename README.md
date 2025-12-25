@@ -151,6 +151,7 @@
 | [2104-sum-of-subarray-ranges](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Number Theory
 |  |
 | ------- |
@@ -307,6 +308,7 @@
 | [0881-boats-to-save-people](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -353,6 +355,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Counting
 |  |
 | ------- |
