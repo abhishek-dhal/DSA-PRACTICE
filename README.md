@@ -148,6 +148,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2104-sum-of-subarray-ranges](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -185,6 +186,7 @@
 | [0881-boats-to-save-people](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -212,6 +214,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0931-minimum-falling-path-sum) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Recursion
 |  |
 | ------- |
@@ -254,6 +257,7 @@
 | [1539-kth-missing-positive-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1901-find-a-peak-element-ii) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Greedy
 |  |
 | ------- |
@@ -428,6 +432,7 @@
 | [0090-subsets-ii](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0268-missing-number) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Divide and Conquer
@@ -569,4 +574,9 @@
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
