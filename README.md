@@ -121,6 +121,7 @@
 | [0621-task-scheduler](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0658-find-k-closest-elements) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0713-subarray-product-less-than-k](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0735-asteroid-collision](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0735-asteroid-collision) |
@@ -213,6 +214,7 @@
 | [0410-split-array-largest-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0509-fibonacci-number) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0746-min-cost-climbing-stairs](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0931-minimum-falling-path-sum) |
@@ -230,6 +232,7 @@
 | [0070-climbing-stairs](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0509-fibonacci-number) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Binary Search
 |  |
 | ------- |
@@ -436,6 +439,7 @@
 | [0090-subsets-ii](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0268-missing-number) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1755-closest-subsequence-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1755-closest-subsequence-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
@@ -560,6 +564,7 @@
 | [0131-palindrome-partitioning](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0282-expression-add-operators) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Depth-First Search
 |  |
@@ -583,6 +588,7 @@
 ## Bitmask
 |  |
 | ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1755-closest-subsequence-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1755-closest-subsequence-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
