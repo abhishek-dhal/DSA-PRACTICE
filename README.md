@@ -16,6 +16,7 @@
 | [0268-missing-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0282-expression-add-operators) |
 | [0509-fibonacci-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0509-fibonacci-number) |
+| [0805-split-array-with-same-average](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0805-split-array-with-same-average) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1922-count-good-numbers) |
@@ -128,6 +129,7 @@
 | [0735-asteroid-collision](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0746-min-cost-climbing-stairs) |
+| [0805-split-array-with-same-average](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0805-split-array-with-same-average) |
 | [0846-hand-of-straights](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0846-hand-of-straights) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0875-koko-eating-bananas) |
@@ -218,6 +220,7 @@
 | [0509-fibonacci-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0509-fibonacci-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0746-min-cost-climbing-stairs](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0746-min-cost-climbing-stairs) |
+| [0805-split-array-with-same-average](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0805-split-array-with-same-average) |
 | [0907-sum-of-subarray-minimums](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0931-minimum-falling-path-sum) |
 | [1755-closest-subsequence-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1755-closest-subsequence-sum) |
@@ -443,6 +446,7 @@
 | [0268-missing-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0268-missing-number) |
 | [0473-matchsticks-to-square](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0805-split-array-with-same-average](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0805-split-array-with-same-average) |
 | [1755-closest-subsequence-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1755-closest-subsequence-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
@@ -594,6 +598,7 @@
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0805-split-array-with-same-average](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0805-split-array-with-same-average) |
 | [1755-closest-subsequence-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1755-closest-subsequence-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
