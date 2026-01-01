@@ -116,6 +116,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0416-partition-equal-subset-sum) |
 | [0473-matchsticks-to-square](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0473-matchsticks-to-square) |
 | [0485-max-consecutive-ones](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0540-single-element-in-a-sorted-array) |
@@ -217,6 +218,7 @@
 | [0410-split-array-largest-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0416-partition-equal-subset-sum) |
 | [0473-matchsticks-to-square](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0473-matchsticks-to-square) |
+| [0494-target-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0509-fibonacci-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0746-min-cost-climbing-stairs](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0746-min-cost-climbing-stairs) |
@@ -572,6 +574,7 @@
 | [0216-combination-sum-iii](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0282-expression-add-operators) |
 | [0473-matchsticks-to-square](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0473-matchsticks-to-square) |
+| [0494-target-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Depth-First Search
