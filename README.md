@@ -134,6 +134,7 @@
 | [0846-hand-of-straights](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0846-hand-of-straights) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0875-koko-eating-bananas) |
+| [0879-profitable-schemes](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0879-profitable-schemes) |
 | [0881-boats-to-save-people](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0907-sum-of-subarray-minimums) |
@@ -223,6 +224,7 @@
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0746-min-cost-climbing-stairs](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0746-min-cost-climbing-stairs) |
 | [0805-split-array-with-same-average](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0805-split-array-with-same-average) |
+| [0879-profitable-schemes](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0879-profitable-schemes) |
 | [0907-sum-of-subarray-minimums](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0931-minimum-falling-path-sum) |
 | [1755-closest-subsequence-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1755-closest-subsequence-sum) |
