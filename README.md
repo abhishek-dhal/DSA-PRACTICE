@@ -144,6 +144,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1125-smallest-sufficient-team](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1125-smallest-sufficient-team) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -227,6 +228,7 @@
 | [0879-profitable-schemes](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0879-profitable-schemes) |
 | [0907-sum-of-subarray-minimums](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0931-minimum-falling-path-sum) |
+| [1125-smallest-sufficient-team](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1125-smallest-sufficient-team) |
 | [1755-closest-subsequence-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1755-closest-subsequence-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Recursion
@@ -451,6 +453,7 @@
 | [0473-matchsticks-to-square](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0805-split-array-with-same-average](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0805-split-array-with-same-average) |
+| [1125-smallest-sufficient-team](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1125-smallest-sufficient-team) |
 | [1755-closest-subsequence-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1755-closest-subsequence-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
@@ -604,6 +607,7 @@
 | [0473-matchsticks-to-square](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0805-split-array-with-same-average](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0805-split-array-with-same-average) |
+| [1125-smallest-sufficient-team](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1125-smallest-sufficient-team) |
 | [1755-closest-subsequence-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1755-closest-subsequence-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
