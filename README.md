@@ -235,6 +235,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1922-count-good-numbers) |
 ## Memoization
@@ -532,6 +533,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0023-merge-k-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0355-design-twitter) |
 ## Merge Sort
 |  |
