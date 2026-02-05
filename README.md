@@ -162,6 +162,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3379-transformed-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/3379-transformed-array) |
 ## Number Theory
 |  |
 | ------- |
@@ -475,6 +476,7 @@
 | [0054-spiral-matrix](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3379-transformed-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/3379-transformed-array) |
 ## Union Find
 |  |
 | ------- |
