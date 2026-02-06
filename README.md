@@ -163,6 +163,7 @@
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3379-transformed-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/3379-transformed-array) |
+| [3634-minimum-removals-to-balance-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/3637-trionic-array-i) |
 ## Number Theory
 |  |
@@ -312,6 +313,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3634-minimum-removals-to-balance-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/3634-minimum-removals-to-balance-array) |
 ## Sorting
 |  |
 | ------- |
@@ -336,6 +338,7 @@
 | [1755-closest-subsequence-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1755-closest-subsequence-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3634-minimum-removals-to-balance-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/3634-minimum-removals-to-balance-array) |
 ## Prefix Sum
 |  |
 | ------- |
