@@ -52,6 +52,7 @@
 | [1208-get-equal-substrings-within-budget](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1208-get-equal-substrings-within-budget) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1903-largest-odd-number-in-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -234,6 +235,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0931-minimum-falling-path-sum) |
 | [1125-smallest-sufficient-team](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1125-smallest-sufficient-team) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1755-closest-subsequence-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1755-closest-subsequence-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Recursion
@@ -427,6 +429,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1021-remove-outermost-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2104-sum-of-subarray-ranges](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2104-sum-of-subarray-ranges) |
 ## String Matching
