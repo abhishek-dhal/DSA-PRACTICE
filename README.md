@@ -55,6 +55,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1903-largest-odd-number-in-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [3713-longest-balanced-substring-i](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/3713-longest-balanced-substring-i) |
 ## Array
 |  |
 | ------- |
@@ -175,6 +176,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0204-count-primes) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [3713-longest-balanced-substring-i](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/3713-longest-balanced-substring-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -386,6 +388,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3713-longest-balanced-substring-i](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/3713-longest-balanced-substring-i) |
 ## Counting
 |  |
 | ------- |
@@ -397,6 +400,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
+| [3713-longest-balanced-substring-i](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/3713-longest-balanced-substring-i) |
 ## Trie
 |  |
 | ------- |
