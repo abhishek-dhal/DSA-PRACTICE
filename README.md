@@ -167,6 +167,7 @@
 | [3379-transformed-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/3637-trionic-array-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/3719-longest-balanced-subarray-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -357,6 +358,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3719-longest-balanced-subarray-i](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -391,6 +393,7 @@
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3713-longest-balanced-substring-i](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/3713-longest-balanced-substring-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/3719-longest-balanced-subarray-i) |
 ## Counting
 |  |
 | ------- |
@@ -481,6 +484,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0347-top-k-frequent-elements) |
+| [3719-longest-balanced-subarray-i](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/3719-longest-balanced-subarray-i) |
 ## Simulation
 |  |
 | ------- |
@@ -628,4 +632,8 @@
 | [1125-smallest-sufficient-team](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1125-smallest-sufficient-team) |
 | [1755-closest-subsequence-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1755-closest-subsequence-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
