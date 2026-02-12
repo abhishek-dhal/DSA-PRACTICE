@@ -65,6 +65,7 @@
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3019-number-of-changing-keys](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/3019-number-of-changing-keys) |
 | [3713-longest-balanced-substring-i](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/3713-longest-balanced-substring-i) |
 ## Array
 |  |
