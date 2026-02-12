@@ -23,6 +23,7 @@
 | [1922-count-good-numbers](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## String
 |  |
 | ------- |
@@ -170,6 +171,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2974-minimum-number-game](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3379-transformed-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/3379-transformed-array) |
