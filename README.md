@@ -56,6 +56,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1903-largest-odd-number-in-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3713-longest-balanced-substring-i](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/3713-longest-balanced-substring-i) |
@@ -396,6 +397,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3713-longest-balanced-substring-i](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/3713-longest-balanced-substring-i) |
