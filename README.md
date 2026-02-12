@@ -140,6 +140,7 @@
 | [0621-task-scheduler](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0658-find-k-closest-elements) |
+| [0682-baseball-game](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0682-baseball-game) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0713-subarray-product-less-than-k](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -453,6 +454,7 @@
 | [0402-remove-k-digits](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0856-score-of-parentheses) |
@@ -522,6 +524,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2974-minimum-number-game](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2974-minimum-number-game) |
