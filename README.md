@@ -27,6 +27,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3024-type-of-triangle](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/3024-type-of-triangle) |
 ## String
 |  |
 | ------- |
@@ -178,6 +179,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2974-minimum-number-game](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3024-type-of-triangle](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/3024-type-of-triangle) |
 | [3379-transformed-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/3637-trionic-array-i) |
@@ -360,6 +362,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2974-minimum-number-game](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3024-type-of-triangle](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/3024-type-of-triangle) |
 | [3634-minimum-removals-to-balance-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/3634-minimum-removals-to-balance-array) |
 ## Prefix Sum
 |  |
