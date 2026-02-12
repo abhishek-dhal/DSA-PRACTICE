@@ -167,6 +167,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1539-kth-missing-positive-number) |
+| [1550-three-consecutive-odds](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1672-richest-customer-wealth) |
 | [1755-closest-subsequence-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1755-closest-subsequence-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1838-frequency-of-the-most-frequent-element) |
