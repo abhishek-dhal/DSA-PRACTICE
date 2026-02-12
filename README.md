@@ -21,6 +21,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1486-xor-operation-in-an-array) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -170,6 +171,7 @@
 | [1550-three-consecutive-odds](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1672-richest-customer-wealth) |
 | [1755-closest-subsequence-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1755-closest-subsequence-sum) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
