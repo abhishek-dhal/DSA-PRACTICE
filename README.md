@@ -13,6 +13,7 @@
 | [0070-climbing-stairs](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0282-expression-add-operators) |
 | [0509-fibonacci-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0509-fibonacci-number) |
@@ -172,6 +173,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Enumeration
 |  |
@@ -489,6 +491,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3379-transformed-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/3379-transformed-array) |
