@@ -165,6 +165,7 @@
 | [2104-sum-of-subarray-ranges](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2974-minimum-number-game](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3379-transformed-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/3634-minimum-removals-to-balance-array) |
@@ -345,6 +346,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 | [1755-closest-subsequence-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1755-closest-subsequence-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2974-minimum-number-game](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3634-minimum-removals-to-balance-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/3634-minimum-removals-to-balance-array) |
 ## Prefix Sum
@@ -459,6 +461,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2974-minimum-number-game](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2974-minimum-number-game) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -497,6 +500,7 @@
 | [0258-add-digits](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2974-minimum-number-game](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2974-minimum-number-game) |
 | [3379-transformed-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/3379-transformed-array) |
 ## Union Find
 |  |
