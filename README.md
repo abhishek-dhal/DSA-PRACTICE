@@ -30,6 +30,7 @@
 | [2652-sum-multiples](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/3024-type-of-triangle) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/3232-find-if-digit-game-can-be-won) |
 ## String
 |  |
 | ------- |
@@ -189,6 +190,7 @@
 | [2974-minimum-number-game](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/3024-type-of-triangle) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3379-transformed-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/3637-trionic-array-i) |
