@@ -186,6 +186,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2942-find-words-containing-character](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2974-minimum-number-game) |
@@ -348,6 +349,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3634-minimum-removals-to-balance-array](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/3634-minimum-removals-to-balance-array) |
 ## Sorting
 |  |
@@ -425,6 +427,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3713-longest-balanced-substring-i](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/3719-longest-balanced-subarray-i) |
