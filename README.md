@@ -17,6 +17,7 @@
 | [0258-add-digits](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0282-expression-add-operators) |
+| [0445-add-two-numbers-ii](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0509-fibonacci-number) |
 | [0805-split-array-with-same-average](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0805-split-array-with-same-average) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/1248-count-number-of-nice-subarrays) |
@@ -461,6 +462,7 @@
 | [0155-min-stack](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0402-remove-k-digits) |
+| [0445-add-two-numbers-ii](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0682-baseball-game) |
@@ -602,6 +604,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0023-merge-k-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0355-design-twitter) |
+| [0445-add-two-numbers-ii](https://github.com/abhishek-dhal/DSA-PRACTICE/tree/master/0445-add-two-numbers-ii) |
 ## Merge Sort
 |  |
 | ------- |
