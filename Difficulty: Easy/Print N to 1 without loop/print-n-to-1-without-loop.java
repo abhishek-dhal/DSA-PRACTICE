@@ -1,12 +1,19 @@
 class Solution {
-    public static void printReverse(int i,int N){
-        if(i<1) return;
-        System.out.print(i + " ");
-        printReverse(i-1,N);
-    }
-    void printNos(int N) {
-        printReverse(N,N);
+    
+    void print(int N){
         
+        if(N == 0) return;
+        
+        System.out.print(N + " ");
+        
+        print(N-1);
+    }
+
+    void printNos(int N) {
+        
+        print(N);
+        
+        // return;
         
     }
 }
